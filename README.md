@@ -24,5 +24,5 @@ Please refer to the LICENSE in the repository.
 
 ## Deloyed
 
-Github:
-Website:
+Github: https://github.com/JasperJackalope/homework01-code-refactor
+Website: https://jasperjackalope.github.io/homework01-code-refactor/
