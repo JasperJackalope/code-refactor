@@ -16,7 +16,7 @@ The webpage, as shown below, was originally written using "div" HTML elements an
 
 ## Credits
 
-N/A
+The original code was provided to me by my insturctors as part of this assignment. I must thank my fellow students and study groups for their help in completing this project. 
 
 ## License
 
