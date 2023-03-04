@@ -20,4 +20,9 @@ N/A
 
 ## License
 
-N/A
+Please refer to the LICENSE in the repository.
+
+## Deloyed
+
+Github:
+Website:
